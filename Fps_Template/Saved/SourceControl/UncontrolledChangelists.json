@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/BO_Prison.umap"
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/BO_Prison.umap",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Box_50C8F0D2.uasset",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Box_6BE9193D.uasset",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Box_74937CA0.uasset",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Box_C4C51183.uasset",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Box_C8F3210B.uasset",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Box_CEB509C3.uasset",
+				"F:/Twilight/Twilight/Fps_Template/Content/GABRIEL/Maps/_GENERATED/gabre/Rectangle_917D6296.uasset"
 			]
 		}
 	]
